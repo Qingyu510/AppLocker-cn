@@ -23,5 +23,9 @@
 
 ![截图](https://github.com/Qingyu510/AppLocker/blob/main/AppLocker-locked.png)
 
+- 注意！！！
+- 使用同样套壳的自制软件，如高清插件管理器，Noboru漫画阅读器，游戏时间记录器等使用同样套壳的自制软件将会被替换index.lua文件导致软件功能丢失！！！
+- 请自行判断自制软件的文件夹下有无index.lua文件，如果有的话请勿使用气泡软件锁使其锁定！
+
 - 原作者：[AntHJ](https://github.com/AntHJ)
 - 汉化：[Qingyu510](https://github.com/Qingyu510)
