@@ -22,3 +22,6 @@
       您需要输入Konami代码（上、上、下、下、左、右、左、右、X、O）
 
 ![截图](https://github.com/Qingyu510/AppLocker/blob/main/AppLocker-locked.png)
+
+- 原作者：[AntHJ](https://github.com/AntHJ)
+- 汉化：[Qingyu510](https://github.com/Qingyu510)
